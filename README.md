@@ -29,32 +29,11 @@ My name is Faith Nkarichia and I'm a software developer engineer. I'm from Nairo
 Apart from coding, I also maintain a blog - you can find my articles on my website at [Plaitnum](https://plaitnum.co.ke/) as well as on [Medium](https://medium.com/@kashfaith77) and [DEV.to](https://dev.to/FairhMukami).
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/fairhmukami/fairhmukami">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fairhmukami&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/fairhmukami/fairhmukami">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fairhmukami&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Faith's GitHub Stats" />
-</a>
-
-<a href="https://github.com/fairhmukami/octoprofile">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fairhmukami&repo=octoprofile&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<!-- <a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    -->
-
-<!-- links to social media icons -->
 
 <!-- icons with padding -->
 
