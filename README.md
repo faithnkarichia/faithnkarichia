@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **fairhmukami/fairhmukami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,18 +22,15 @@ Here are some ideas to get you started:
 # Hello, folks! 
 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 
-My name is Faith Nkarichia a software developer. I'm from Nairobi, KE. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Faith Nkarichia a software developer from Nairobi, KE.
 
-## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [Plaitnum](https://plaitnum.co.ke/) as well as on [Medium](https://medium.com/@kashfaith77) and [DEV.to](https://dev.to/FairhMukami).
+
+
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+
 
 <!-- icons with padding -->
 
@@ -49,8 +46,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/FaithNkarichia
-[2]: https://github.com/FaihMukami
+
+
 [3]: https://www.linkedin.com/in/faith-mukami-423b66160/
 
 
